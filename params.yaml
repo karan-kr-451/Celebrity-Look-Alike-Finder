@@ -1,0 +1,7 @@
+base:
+  limits: 5
+  data_path: artifacts\cleaned_images
+  BASE_MODEL: resnet50
+  include_top: False
+  input_shape: [224, 224, 3]
+  pooling: avg

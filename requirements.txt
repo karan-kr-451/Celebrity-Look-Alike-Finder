@@ -1,0 +1,11 @@
+ipykernel
+bing-image-downloader
+PyYAML
+tqdm
+streamlit
+tensorflow==2.15.0
+tqdm
+opencv-python
+faiss-cpu
+
+-e .
